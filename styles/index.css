@@ -1,0 +1,144 @@
+body{
+    width: auto;
+    margin: 0px;
+    padding: 0px;
+    font-family:"Mulish", sans-serif;
+}
+
+header{
+    height: 48px;
+    margin-top: 56px;
+    margin-left: 93px;
+    display: flex;
+    justify-content: space-between;
+}
+nav{
+    width: 545px;
+    height: 23px;
+    gap: 0px;
+    opacity: 0px;
+    margin-right: 90px;
+}
+nav ul{
+    display: flex;
+    justify-content: space-between;
+}
+nav ul li{
+    list-style: none;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #5f3155;
+}
+nav ul li a:hover{
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 22.59px;
+    text-align: center;
+}
+#logo-SV{
+    width: 48px;
+    height: 48px;
+    background-color: #ec5884;
+    font-family:"Mulish", sans-serif;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 32.63px;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    display: inline-block;
+    color: #ffff;
+    border-radius: 50px;
+}
+#logo-skinsva{
+    width: 107px;
+    height: 30px;
+    gap: 0px;
+    opacity: 0px;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 30.12px;
+    text-align: center;
+    color: #5f3155;
+
+}
+#seccion-main{
+    display: flex;
+}
+#article-descripcion{
+    width: 445px;
+    height: 338px;
+    margin-top: 150px;
+    margin-left: 105px;
+    gap: 0px;
+    border-radius: 55px 0px 0px 0px;
+    opacity: 0px;
+    margin-right: 35px;
+}
+#article-descripcion h1{
+    width: 427px;
+    height: 112px;
+    gap: 0px;
+    opacity: 0px;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 56px;
+    text-align: left;
+    color: #331a2d;
+
+}
+#article-descripcion p{
+    width: 445px;
+    height: 140px;
+    gap: 0px;
+    opacity: 0px;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 32px;
+    text-align: left;
+    color: #7D7987;
+
+
+}
+#article-descripcion button{
+    width: 200px;
+    height: 60px;
+    gap: 0px;
+    border-radius: 50px;
+    opacity: 0px;
+    background-color: #5f3155;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Muli;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 60px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: #ffff; 
+    font-family:"Mulish", sans-serif;
+    border: none;
+
+}
+#imagen-descripcion{
+    width: 693px;
+    height: 598px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.Font-Mulish{
+    font-family:"Mulish", sans-serif;
+}
+
+.contenedor-main{
+    width: 50%;
+    height: 598px;
+    gap: 0px;
+    opacity: 0px;
+
+}
